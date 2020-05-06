@@ -1,10 +1,8 @@
 # Change Log
 
-0.0.1 (2020-06-05)
+0.0.1 (2020-05-06)
 
-* Hello, World!
-
-Just a few tweaks to Eva-Theme.
+* Few tweaks to Eva-Theme.
 
 ```UI
 #CF68E1
@@ -40,4 +38,14 @@ entity.other.inherited-class.python
 
 #56B7C3
 support.type.python
+```
+
+0.0.2 (2020-05-06)
+
+* Punctuation
+
+```UI
+#C1D0D2
+punctuation.separator.arguments.python
+punctuation.section.function.begin.python
 ```

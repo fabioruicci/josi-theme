@@ -1183,6 +1183,15 @@
             "settings": {
                 "foreground": "#CF68E1",
             }
+        },
+        {
+            "scope": [
+                "punctuation.separator.arguments.python",
+                "punctuation.section.function.begin.python",
+            ],
+            "settings": {
+                "foreground": "#C1D0D2",
+            }
         }
     ]
 }
