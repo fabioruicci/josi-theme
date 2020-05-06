@@ -18,5 +18,9 @@
                 "path": "./themes/Josi-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/fabioruicci/repository.git"
+      }
 }
