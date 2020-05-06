@@ -1,0 +1,22 @@
+{
+    "publisher": "fabioruicci",
+    "name": "josi",
+    "displayName": "Josi",
+    "description": "Colorful VSCode theme. Inspired by Eva-Theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Josi",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Josi-color-theme.json"
+            }
+        ]
+    }
+}
